@@ -1,0 +1,1071 @@
+{
+  "source": "Genuine Wongdhen Caf\u00e9 photos, combined into curated editorial collages",
+  "disclaimer": "Original real caf\u00e9 photographs in redesigned multi-photo layouts; masters are compositions of existing optimized library assets, not native camera originals. Named-dish identities are not implied.",
+  "spreads": [
+    {
+      "number": 1,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-001.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-001.jpg",
+      "photos": [
+        "P0246",
+        "P0197",
+        "P0422",
+        "P0374",
+        "P0429"
+      ]
+    },
+    {
+      "number": 2,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-002.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-002.jpg",
+      "photos": [
+        "P0337",
+        "P0029",
+        "P0078",
+        "P0152",
+        "P0178"
+      ]
+    },
+    {
+      "number": 3,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-003.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-003.jpg",
+      "photos": [
+        "P0076",
+        "P0007",
+        "P0163",
+        "P0125",
+        "P0018"
+      ]
+    },
+    {
+      "number": 4,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-004.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-004.jpg",
+      "photos": [
+        "P0464",
+        "P0485",
+        "P0270",
+        "P0521",
+        "P0070"
+      ]
+    },
+    {
+      "number": 5,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-005.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-005.jpg",
+      "photos": [
+        "P0426",
+        "P0236",
+        "P0524",
+        "P0328",
+        "P0400"
+      ]
+    },
+    {
+      "number": 6,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-006.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-006.jpg",
+      "photos": [
+        "P0129",
+        "P0534",
+        "P0030",
+        "P0039",
+        "P0112"
+      ]
+    },
+    {
+      "number": 7,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-007.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-007.jpg",
+      "photos": [
+        "P0215",
+        "P0522",
+        "P0550",
+        "P0169",
+        "P0118"
+      ]
+    },
+    {
+      "number": 8,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-008.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-008.jpg",
+      "photos": [
+        "P0167",
+        "P0087",
+        "P0025",
+        "P0353",
+        "P0228"
+      ]
+    },
+    {
+      "number": 9,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-009.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-009.jpg",
+      "photos": [
+        "P0154",
+        "P0417",
+        "P0469",
+        "P0372",
+        "P0157"
+      ]
+    },
+    {
+      "number": 10,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-010.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-010.jpg",
+      "photos": [
+        "P0209",
+        "P0175",
+        "P0267",
+        "P0418",
+        "P0384"
+      ]
+    },
+    {
+      "number": 11,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-011.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-011.jpg",
+      "photos": [
+        "P0424",
+        "P0046",
+        "P0512",
+        "P0092",
+        "P0308"
+      ]
+    },
+    {
+      "number": 12,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-012.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-012.jpg",
+      "photos": [
+        "P0278",
+        "P0260",
+        "P0533",
+        "P0031",
+        "P0472"
+      ]
+    },
+    {
+      "number": 13,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-013.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-013.jpg",
+      "photos": [
+        "P0250",
+        "P0241",
+        "P0006",
+        "P0131",
+        "P0063"
+      ]
+    },
+    {
+      "number": 14,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-014.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-014.jpg",
+      "photos": [
+        "P0203",
+        "P0077",
+        "P0442",
+        "P0435",
+        "P0354"
+      ]
+    },
+    {
+      "number": 15,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-015.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-015.jpg",
+      "photos": [
+        "P0256",
+        "P0136",
+        "P0359",
+        "P0037",
+        "P0549"
+      ]
+    },
+    {
+      "number": 16,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-016.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-016.jpg",
+      "photos": [
+        "P0303",
+        "P0382",
+        "P0208",
+        "P0528",
+        "P0502"
+      ]
+    },
+    {
+      "number": 17,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-017.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-017.jpg",
+      "photos": [
+        "P0172",
+        "P0144",
+        "P0527",
+        "P0540",
+        "P0473"
+      ]
+    },
+    {
+      "number": 18,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-018.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-018.jpg",
+      "photos": [
+        "P0263",
+        "P0075",
+        "P0317",
+        "P0413",
+        "P0509"
+      ]
+    },
+    {
+      "number": 19,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-019.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-019.jpg",
+      "photos": [
+        "P0123",
+        "P0181",
+        "P0335",
+        "P0072",
+        "P0492"
+      ]
+    },
+    {
+      "number": 20,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-020.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-020.jpg",
+      "photos": [
+        "P0003",
+        "P0111",
+        "P0096",
+        "P0237",
+        "P0185"
+      ]
+    },
+    {
+      "number": 21,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-021.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-021.jpg",
+      "photos": [
+        "P0514",
+        "P0180",
+        "P0457",
+        "P0161",
+        "P0193"
+      ]
+    },
+    {
+      "number": 22,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-022.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-022.jpg",
+      "photos": [
+        "P0398",
+        "P0327",
+        "P0098",
+        "P0199",
+        "P0438"
+      ]
+    },
+    {
+      "number": 23,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-023.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-023.jpg",
+      "photos": [
+        "P0093",
+        "P0427",
+        "P0140",
+        "P0282",
+        "P0476"
+      ]
+    },
+    {
+      "number": 24,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-024.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-024.jpg",
+      "photos": [
+        "P0164",
+        "P0471",
+        "P0210",
+        "P0539",
+        "P0104"
+      ]
+    },
+    {
+      "number": 25,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-025.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-025.jpg",
+      "photos": [
+        "P0467",
+        "P0444",
+        "P0057",
+        "P0126",
+        "P0137"
+      ]
+    },
+    {
+      "number": 26,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-026.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-026.jpg",
+      "photos": [
+        "P0043",
+        "P0493",
+        "P0017",
+        "P0265",
+        "P0121"
+      ]
+    },
+    {
+      "number": 27,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-027.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-027.jpg",
+      "photos": [
+        "P0286",
+        "P0262",
+        "P0321",
+        "P0329",
+        "P0044"
+      ]
+    },
+    {
+      "number": 28,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-028.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-028.jpg",
+      "photos": [
+        "P0120",
+        "P0393",
+        "P0523",
+        "P0347",
+        "P0024"
+      ]
+    },
+    {
+      "number": 29,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-029.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-029.jpg",
+      "photos": [
+        "P0188",
+        "P0463",
+        "P0162",
+        "P0081",
+        "P0520"
+      ]
+    },
+    {
+      "number": 30,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-030.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-030.jpg",
+      "photos": [
+        "P0338",
+        "P0254",
+        "P0381",
+        "P0394",
+        "P0027"
+      ]
+    },
+    {
+      "number": 31,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-031.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-031.jpg",
+      "photos": [
+        "P0377",
+        "P0352",
+        "P0545",
+        "P0124",
+        "P0314"
+      ]
+    },
+    {
+      "number": 32,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-032.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-032.jpg",
+      "photos": [
+        "P0115",
+        "P0149",
+        "P0150",
+        "P0430",
+        "P0206"
+      ]
+    },
+    {
+      "number": 33,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-033.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-033.jpg",
+      "photos": [
+        "P0431",
+        "P0134",
+        "P0214",
+        "P0201",
+        "P0531"
+      ]
+    },
+    {
+      "number": 34,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-034.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-034.jpg",
+      "photos": [
+        "P0240",
+        "P0474",
+        "P0470",
+        "P0440",
+        "P0488"
+      ]
+    },
+    {
+      "number": 35,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-035.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-035.jpg",
+      "photos": [
+        "P0497",
+        "P0336",
+        "P0447",
+        "P0106",
+        "P0195"
+      ]
+    },
+    {
+      "number": 36,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-036.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-036.jpg",
+      "photos": [
+        "P0168",
+        "P0526",
+        "P0443",
+        "P0519",
+        "P0351"
+      ]
+    },
+    {
+      "number": 37,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-037.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-037.jpg",
+      "photos": [
+        "P0547",
+        "P0015",
+        "P0268",
+        "P0358",
+        "P0510"
+      ]
+    },
+    {
+      "number": 38,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-038.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-038.jpg",
+      "photos": [
+        "P0343",
+        "P0264",
+        "P0281",
+        "P0114",
+        "P0283"
+      ]
+    },
+    {
+      "number": 39,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-039.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-039.jpg",
+      "photos": [
+        "P0344",
+        "P0133",
+        "P0190",
+        "P0143",
+        "P0141"
+      ]
+    },
+    {
+      "number": 40,
+      "chapter": "MOMENTS",
+      "web": "/static/v18/lookbook/atelier-040.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-040.jpg",
+      "photos": [
+        "P0083",
+        "P0293",
+        "P0501",
+        "P0079",
+        "P0266"
+      ]
+    },
+    {
+      "number": 41,
+      "chapter": "LIGHT & SPACE",
+      "web": "/static/v18/lookbook/atelier-041.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-041.jpg",
+      "photos": [
+        "P0109",
+        "P0151",
+        "P0225",
+        "P0019",
+        "P0191"
+      ]
+    },
+    {
+      "number": 42,
+      "chapter": "THE TABLE",
+      "web": "/static/v18/lookbook/atelier-042.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-042.jpg",
+      "photos": [
+        "P0346",
+        "P0196",
+        "P0420",
+        "P0059",
+        "P0230"
+      ]
+    },
+    {
+      "number": 43,
+      "chapter": "THE MENU",
+      "web": "/static/v18/lookbook/atelier-043.webp",
+      "width": 1140,
+      "height": 749,
+      "master": "assets/v18-original-photo-editorials/atelier-043.jpg",
+      "photos": [
+        "P0174",
+        "P0316",
+        "P0227",
+        "P0548",
+        "P0508"
+      ]
+    },
+    {
+      "number": 44,
+      "chapter": "A CAF\u00c9 IN FRAMES",
+      "web": "/static/v19/lookbook/signature-044.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-044.jpg",
+      "photos": [
+        "P0059",
+        "P0472",
+        "P0021",
+        "P0006",
+        "P0100"
+      ]
+    },
+    {
+      "number": 45,
+      "chapter": "THE ART OF STAYING",
+      "web": "/static/v19/lookbook/signature-045.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-045.jpg",
+      "photos": [
+        "P0017",
+        "P0137",
+        "P0105",
+        "P0113",
+        "P0382"
+      ]
+    },
+    {
+      "number": 46,
+      "chapter": "LITTLE MOMENTS",
+      "web": "/static/v19/lookbook/signature-046.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-046.jpg",
+      "photos": [
+        "P0027",
+        "P0165",
+        "P0265",
+        "P0263",
+        "P0333"
+      ]
+    },
+    {
+      "number": 47,
+      "chapter": "FOOD & PLACE",
+      "web": "/static/v19/lookbook/signature-047.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-047.jpg",
+      "photos": [
+        "P0413",
+        "P0345",
+        "P0266",
+        "P0269",
+        "P0524"
+      ]
+    },
+    {
+      "number": 48,
+      "chapter": "A CAF\u00c9 IN FRAMES",
+      "web": "/static/v19/lookbook/signature-048.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-048.jpg",
+      "photos": [
+        "P0282",
+        "P0130",
+        "P0141",
+        "P0034",
+        "P0145"
+      ]
+    },
+    {
+      "number": 49,
+      "chapter": "THE ART OF STAYING",
+      "web": "/static/v19/lookbook/signature-049.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-049.jpg",
+      "photos": [
+        "P0467",
+        "P0155",
+        "P0210",
+        "P0028",
+        "P0236"
+      ]
+    },
+    {
+      "number": 50,
+      "chapter": "LITTLE MOMENTS",
+      "web": "/static/v19/lookbook/signature-050.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-050.jpg",
+      "photos": [
+        "P0161",
+        "P0341",
+        "P0178",
+        "P0344",
+        "P0473"
+      ]
+    },
+    {
+      "number": 51,
+      "chapter": "FOOD & PLACE",
+      "web": "/static/v19/lookbook/signature-051.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-051.jpg",
+      "photos": [
+        "P0383",
+        "P0503",
+        "P0221",
+        "P0171",
+        "P0436"
+      ]
+    },
+    {
+      "number": 52,
+      "chapter": "A CAF\u00c9 IN FRAMES",
+      "web": "/static/v19/lookbook/signature-052.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-052.jpg",
+      "photos": [
+        "P0308",
+        "P0093",
+        "P0481",
+        "P0078",
+        "P0430"
+      ]
+    },
+    {
+      "number": 53,
+      "chapter": "THE ART OF STAYING",
+      "web": "/static/v19/lookbook/signature-053.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-053.jpg",
+      "photos": [
+        "P0271",
+        "P0427",
+        "P0181",
+        "P0198",
+        "P0488"
+      ]
+    },
+    {
+      "number": 54,
+      "chapter": "LITTLE MOMENTS",
+      "web": "/static/v19/lookbook/signature-054.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-054.jpg",
+      "photos": [
+        "P0200",
+        "P0506",
+        "P0440",
+        "P0422",
+        "P0420"
+      ]
+    },
+    {
+      "number": 55,
+      "chapter": "FOOD & PLACE",
+      "web": "/static/v19/lookbook/signature-055.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-055.jpg",
+      "photos": [
+        "P0079",
+        "P0397",
+        "P0416",
+        "P0070",
+        "P0546"
+      ]
+    },
+    {
+      "number": 56,
+      "chapter": "A CAF\u00c9 IN FRAMES",
+      "web": "/static/v19/lookbook/signature-056.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-056.jpg",
+      "photos": [
+        "P0254",
+        "P0517",
+        "P0083",
+        "P0153",
+        "P0327"
+      ]
+    },
+    {
+      "number": 57,
+      "chapter": "THE ART OF STAYING",
+      "web": "/static/v19/lookbook/signature-057.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-057.jpg",
+      "photos": [
+        "P0477",
+        "P0508",
+        "P0117",
+        "P0208",
+        "P0384"
+      ]
+    },
+    {
+      "number": 58,
+      "chapter": "LITTLE MOMENTS",
+      "web": "/static/v19/lookbook/signature-058.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-058.jpg",
+      "photos": [
+        "P0528",
+        "P0067",
+        "P0536",
+        "P0054",
+        "P0220"
+      ]
+    },
+    {
+      "number": 59,
+      "chapter": "FOOD & PLACE",
+      "web": "/static/v19/lookbook/signature-059.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-059.jpg",
+      "photos": [
+        "P0233",
+        "P0435",
+        "P0457",
+        "P0356",
+        "P0346"
+      ]
+    },
+    {
+      "number": 60,
+      "chapter": "A CAF\u00c9 IN FRAMES",
+      "web": "/static/v19/lookbook/signature-060.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-060.jpg",
+      "photos": [
+        "P0237",
+        "P0456",
+        "P0498",
+        "P0098",
+        "P0551"
+      ]
+    },
+    {
+      "number": 61,
+      "chapter": "THE ART OF STAYING",
+      "web": "/static/v19/lookbook/signature-061.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-061.jpg",
+      "photos": [
+        "P0190",
+        "P0361",
+        "P0518",
+        "P0463",
+        "P0264"
+      ]
+    },
+    {
+      "number": 62,
+      "chapter": "LITTLE MOMENTS",
+      "web": "/static/v19/lookbook/signature-062.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-062.jpg",
+      "photos": [
+        "P0281",
+        "P0290",
+        "P0549",
+        "P0268",
+        "P0520"
+      ]
+    },
+    {
+      "number": 63,
+      "chapter": "FOOD & PLACE",
+      "web": "/static/v19/lookbook/signature-063.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-063.jpg",
+      "photos": [
+        "P0044",
+        "P0032",
+        "P0040",
+        "P0335",
+        "P0223"
+      ]
+    },
+    {
+      "number": 64,
+      "chapter": "A CAF\u00c9 IN FRAMES",
+      "web": "/static/v19/lookbook/signature-064.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-064.jpg",
+      "photos": [
+        "P0120",
+        "P0355",
+        "P0267",
+        "P0332",
+        "P0512"
+      ]
+    },
+    {
+      "number": 65,
+      "chapter": "THE ART OF STAYING",
+      "web": "/static/v19/lookbook/signature-065.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-065.jpg",
+      "photos": [
+        "P0441",
+        "P0523",
+        "P0250",
+        "P0322",
+        "P0003"
+      ]
+    },
+    {
+      "number": 66,
+      "chapter": "LITTLE MOMENTS",
+      "web": "/static/v19/lookbook/signature-066.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-066.jpg",
+      "photos": [
+        "P0283",
+        "P0331",
+        "P0074",
+        "P0400",
+        "P0015"
+      ]
+    },
+    {
+      "number": 67,
+      "chapter": "FOOD & PLACE",
+      "web": "/static/v19/lookbook/signature-067.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-067.jpg",
+      "photos": [
+        "P0102",
+        "P0241",
+        "P0203",
+        "P0205",
+        "P0108"
+      ]
+    },
+    {
+      "number": 68,
+      "chapter": "A CAF\u00c9 IN FRAMES",
+      "web": "/static/v19/lookbook/signature-068.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-068.jpg",
+      "photos": [
+        "P0150",
+        "P0337",
+        "P0447",
+        "P0064",
+        "P0195"
+      ]
+    },
+    {
+      "number": 69,
+      "chapter": "THE ART OF STAYING",
+      "web": "/static/v19/lookbook/signature-069.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-069.jpg",
+      "photos": [
+        "P0414",
+        "P0410",
+        "P0324",
+        "P0124",
+        "P0206"
+      ]
+    },
+    {
+      "number": 70,
+      "chapter": "LITTLE MOMENTS",
+      "web": "/static/v19/lookbook/signature-070.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-070.jpg",
+      "photos": [
+        "P0116",
+        "P0127",
+        "P0118",
+        "P0004",
+        "P0479"
+      ]
+    },
+    {
+      "number": 71,
+      "chapter": "FOOD & PLACE",
+      "web": "/static/v19/lookbook/signature-071.webp",
+      "width": 1180,
+      "height": 780,
+      "master": "assets/v19-owner-photo-compendium/signature-071.jpg",
+      "photos": [
+        "P0504",
+        "P0437",
+        "P0529",
+        "P0230",
+        "P0538"
+      ]
+    }
+  ]
+}

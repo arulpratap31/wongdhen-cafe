@@ -1,0 +1,50 @@
+/* V28 Signature & Experience: additions retain existing theme variables and owner-approved identity. */
+:root { --v28-line: color-mix(in srgb,var(--gold,#ccaa80) 34%,transparent); }
+.v28-sr-only{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.nav-overlay .v4-nav-links:has(.v28-nav-group){display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(16px,3vw,36px)!important;align-content:start;padding:8px 10px 36px 0;max-height:min(69vh,850px);overflow-y:auto}
+.nav-overlay .v28-nav-group{min-width:0;border-top:1px solid #caa68866;padding-top:14px}
+.nav-overlay .v28-nav-heading{font:700 11px/1.5 system-ui,sans-serif;letter-spacing:.17em;color:#e4bb95;margin:0 0 10px}
+.nav-overlay .v28-nav-links{display:grid;align-content:start;gap:2px}
+.nav-overlay .v28-nav-links .big-nav{display:flex;align-items:center;justify-content:space-between;min-height:39px;font:400 clamp(19px,2.15vw,30px)/1.2 Georgia,serif!important;letter-spacing:0;padding:5px 0!important;margin:0!important;color:#fff2e3}
+.nav-overlay .v28-nav-links .big-nav:hover,.nav-overlay .v28-nav-links .big-nav:focus-visible{color:#f3bf85!important;text-decoration:underline;text-underline-offset:6px}
+.nav-overlay .v28-nav-links .big-nav i{font-size:10px;font-family:system-ui;color:#bb9d83;margin-left:6px}
+.nav-overlay .v28-nav-links .big-nav[aria-current=page]{color:#f2c49e!important}
+.v28-active:focus-visible,.v28-menu-browser a:focus-visible,.v28-menu-browser button:focus-visible,.v28-menu-browser input:focus-visible,.v28-menu-browser select:focus-visible{outline:3px solid #f3c58f!important;outline-offset:4px!important}
+.v28-menu-browser{color:#e9dac8;background:linear-gradient(140deg,#1b1412,#30201c);padding:clamp(35px,5.5vw,70px) clamp(19px,6vw,90px);border-bottom:1px solid #b1957966;isolation:isolate;scroll-margin-top:15px}
+.v28-menu-browser> :is(h2,p,form,div){max-width:1390px;margin-left:auto;margin-right:auto}
+.v28-eyebrow{font:700 10px/1.5 system-ui,sans-serif;letter-spacing:.2em;color:#f2c9a5;margin-bottom:18px}
+.v28-menu-title{font:400 clamp(40px,6vw,80px)/1 Georgia,serif;letter-spacing:-.04em;color:#fff4e5;margin:0 0 15px!important}
+.v28-menu-desc{font:400 15px/1.7 system-ui,sans-serif;color:#e9d5c2;max-width:670px!important;margin-bottom:26px!important}
+.v28-menu-filters{display:grid;grid-template-columns:minmax(140px,2fr) minmax(180px,1fr) auto;gap:12px;align-items:end;margin-bottom:18px!important}
+.v28-menu-input,.v28-menu-category{width:100%;height:54px;min-width:0;border:1px solid #d6b899;background:#f9f2e9;color:#2c1812;border-radius:4px;padding:12px 16px;font:500 15px system-ui;box-shadow:none!important}
+.v28-menu-reset,.v28-menu-pagination button{min-height:54px;border:1px solid #dabd9c;color:#241912;background:#f2d7b1;padding:12px 21px;font:700 12px system-ui;letter-spacing:.1em;cursor:pointer;border-radius:4px}
+.v28-menu-reset:hover,.v28-menu-pagination button:hover:not(:disabled){background:#fff0da}
+.v28-menu-pagination button:disabled{opacity:.45;cursor:not-allowed}
+.v28-browser-status{font:500 12px/1.6 system-ui;color:#e6d0bc;margin-bottom:18px!important}
+.v28-menu-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;min-height:95px}
+.v28-dish-card{display:flex;flex-direction:column;gap:8px;background:#fff7ec;color:#39251b;padding:20px;border-radius:4px;border:1px solid #e4c5a2;min-height:186px;box-shadow:0 9px 25px #0c080621}
+.v28-dish-card h3{margin:0;color:#2f1e17;font:500 clamp(24px,2.2vw,30px)/1.12 Georgia,serif;overflow-wrap:anywhere}
+.v28-dish-category{margin:0;color:#6f4c38;font:700 10px/1.4 system-ui;text-transform:uppercase;letter-spacing:.13em}
+.v28-dish-price{margin:0;color:#503325;font:700 17px/1.4 system-ui}
+.v28-dish-verification{font:500 11px/1.4 system-ui;color:#765940}
+.v28-dish-link{margin-top:auto;align-self:flex-start;text-underline-offset:4px;color:#67391d;font:700 11px/1.4 system-ui;letter-spacing:.12em;border-bottom:1px solid #7b4d2a;padding-bottom:4px}
+.v28-menu-pagination{display:flex;justify-content:center;align-items:center;gap:16px;flex-wrap:wrap;padding-top:24px}
+.v28-menu-range{font:700 12px/1.4 system-ui;letter-spacing:.12em;color:#fff3e5}
+.v28-empty{grid-column:1/-1;padding:35px 20px;border:1px dashed #cda67c;color:#fff0de;text-align:center}
+.v28-menu-disclaimer{margin-top:24px!important;font:500 11px/1.65 system-ui;color:#dfc1a2}
+.v28-reservation-status{background:#442518;color:#fff1de;line-height:1.65;font-size:14px;padding:18px 26px;border-left:4px solid #f5ba77}
+.v28-owner-quality{padding:20px 0}
+.v28-owner-quality h2{font:30px/1.2 Georgia,serif}
+.v28-owner-checks{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.v28-owner-check{background:#292019;padding:16px;border:1px solid #80634c;color:#f5e5d4}
+.v28-owner-check h3{font:25px/1.2 Georgia,serif;margin:7px 0}
+.v28-owner-check p{font:14px/1.6 system-ui;margin:6px 0}
+.v28-owner-check small{font:12px/1.5 system-ui;color:#e4d3bf}
+.v28-owner-check b{font:700 11px/1 system-ui;letter-spacing:.08em}
+.v28-ok{color:#a9e7c1}.v28-review{color:#ffcc92}
+/* Keep dining interactions easy to read regardless of original theme contrast tokens. */
+.v28-menu-browser :focus-visible{outline-offset:3px}
+@media(max-width:1000px){.nav-overlay .v4-nav-links:has(.v28-nav-group){grid-template-columns:1fr 1fr}.v28-menu-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.nav-overlay .v4-nav-links:has(.v28-nav-group){grid-template-columns:1fr 1fr;gap:14px;max-height:calc(100dvh - 180px)}.nav-overlay .v28-nav-links .big-nav{font-size:clamp(18px,4vw,27px)!important;min-height:32px}.v28-menu-filters{grid-template-columns:1fr}.v28-menu-grid{grid-template-columns:1fr}.v28-owner-checks{grid-template-columns:1fr}.v28-menu-reset{width:100%}}
+@media(max-width:390px){.nav-overlay .v4-nav-links:has(.v28-nav-group){grid-template-columns:1fr}.nav-overlay .v28-nav-links{grid-template-columns:1fr 1fr}.nav-overlay .v28-nav-links .big-nav{font-size:18px!important}.v28-menu-title{font-size:40px}.v28-menu-pagination{gap:9px}.v28-menu-pagination button{padding:10px 12px;font-size:10px}}
+@media(prefers-reduced-motion:reduce){.v28-menu-browser *,.v28-nav-group *{scroll-behavior:auto!important;animation:none!important;transition:none!important}}

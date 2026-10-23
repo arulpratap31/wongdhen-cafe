@@ -1,0 +1,50 @@
+/* V21 MAISON CHROMATIQUE — all themes are source-verified local constants. */
+(()=>{'use strict';
+const THEMES={"burgundy":{"id":"burgundy","name":"Black Burgundy","mood":"Heritage noir","mode":"dark","bg":"#120d11","surface":"#21171e","raised":"#2f2028","ink":"#f7eee7","muted":"#d4bbbd","accent":"#ce8791","line":"#67444c","deep":"#160d12","mid":"#582636","gold":"#e4c39c","cta":"#F4E6D1","ctaInk":"#26151c"},"emerald":{"id":"emerald","name":"Midnight Emerald","mood":"Forest after dark","mode":"dark","bg":"#101e1a","surface":"#1a302a","raised":"#254239","ink":"#f8f3ea","muted":"#c9d6ce","accent":"#9bcbb7","line":"#45645a","deep":"#0b1715","mid":"#1e4d43","gold":"#ead4aa","cta":"#F4E6D1","ctaInk":"#26151c"},"ivory":{"id":"ivory","name":"Ivory Gold","mood":"Quiet golden luxury","mode":"light","bg":"#f7f1e8","surface":"#fffaf2","raised":"#eee0cc","ink":"#302219","muted":"#695446","accent":"#805725","line":"#c7ac8c","deep":"#35251c","mid":"#8f6948","gold":"#f0d5a4","cta":"#2d1d25","ctaInk":"#FFF5EA"},"terracotta":{"id":"terracotta","name":"Sandstone Terracotta","mood":"Warm clay editorial","mode":"light","bg":"#f4ece1","surface":"#fff6eb","raised":"#e8d6c3","ink":"#36241d","muted":"#715044","accent":"#944528","line":"#caa28c","deep":"#542c23","mid":"#a6543a","gold":"#f5d7af","cta":"#2d1d25","ctaInk":"#FFF5EA"},"jewel":{"id":"jewel","name":"Jewel Teal Royale","mood":"Teal \u00b7 Gold \u00b7 Amethyst","mode":"dark","bg":"#0c2125","surface":"#13343b","raised":"#1b444b","ink":"#f6efe6","muted":"#d7cec1","accent":"#ddb873","line":"#44666a","deep":"#0e2327","mid":"#185660","gold":"#e2c37c","cta":"#F4E6D1","ctaInk":"#26151c"},"francisca":{"id":"francisca","name":"Francisca Bridal","mood":"Ivory \u00b7 Champagne \u00b7 Oxblood","mode":"light","bg":"#f8f1d6","surface":"#fffaf0","raised":"#dbbe9b","ink":"#35121e","muted":"#67404b","accent":"#831d37","line":"#c0a783","deep":"#4d0011","mid":"#7b1830","gold":"#f1d9b7","cta":"#2d1d25","ctaInk":"#FFF5EA"},"orchid":{"id":"orchid","name":"Orchid Nocturne","mood":"Mauve \u00b7 Merlot \u00b7 Plum","mode":"dark","bg":"#1b0b13","surface":"#2b1423","raised":"#402139","ink":"#f9ebef","muted":"#ddc1ca","accent":"#dba5b8","line":"#664053","deep":"#250714","mid":"#742744","gold":"#edb4c5","cta":"#F4E6D1","ctaInk":"#26151c"},"biblical":{"id":"biblical","name":"Biblical Crimson","mood":"Olive \u00b7 Crimson \u00b7 Ancient gold","mode":"dark","bg":"#1a1016","surface":"#2b1820","raised":"#422732","ink":"#f8efe4","muted":"#daccbc","accent":"#e0b47a","line":"#675043","deep":"#3a1e3f","mid":"#850a1e","gold":"#e1c18a","cta":"#F4E6D1","ctaInk":"#26151c"},"garden":{"id":"garden","name":"Garden Ceremony","mood":"Rose \u00b7 Olive \u00b7 Ivory","mode":"light","bg":"#f6eee1","surface":"#fff8ef","raised":"#efd9d5","ink":"#371c20","muted":"#76504e","accent":"#7b1930","line":"#cbb3a9","deep":"#4b1927","mid":"#b44a61","gold":"#f2d6a8","cta":"#2d1d25","ctaInk":"#FFF5EA"},"machine":{"id":"machine","name":"Emerald Machine","mood":"Emerald \u00b7 Bronze \u00b7 Noir","mode":"dark","bg":"#071410","surface":"#142720","raised":"#21392f","ink":"#f2eee4","muted":"#c3c9bd","accent":"#d5b483","line":"#3d554a","deep":"#03110d","mid":"#16302b","gold":"#dfc190","cta":"#F4E6D1","ctaInk":"#26151c"},"vanilla":{"id":"vanilla","name":"Vanilla Bordeaux","mood":"Silk \u00b7 Greige \u00b7 Velvet","mode":"light","bg":"#f2ebdd","surface":"#fff8ef","raised":"#e4d7c7","ink":"#38151e","muted":"#6d5254","accent":"#7b2936","line":"#cdb8aa","deep":"#38151e","mid":"#6e1e28","gold":"#e4c0a4","cta":"#2d1d25","ctaInk":"#FFF5EA"},"navy":{"id":"navy","name":"Navy Cognac","mood":"Navy \u00b7 Leather \u00b7 Warm white","mode":"light","bg":"#f6f1e8","surface":"#fffaf2","raised":"#e8dac9","ink":"#1d2d40","muted":"#4b5360","accent":"#725028","line":"#cbbca8","deep":"#12284a","mid":"#8a5a2b","gold":"#e6c69e","cta":"#152942","ctaInk":"#fff8ed"},"fig":{"id":"fig","name":"Fig Noir","mood":"Berry \u00b7 Taupe \u00b7 Moss","mode":"dark","bg":"#181611","surface":"#28231e","raised":"#353125","ink":"#f1e7df","muted":"#d0c6bb","accent":"#d2a88e","line":"#5c5048","deep":"#280909","mid":"#402120","gold":"#e2c4a3","cta":"#F4E6D1","ctaInk":"#26151c"},"oldmoney":{"id":"oldmoney","name":"Old Money","mood":"Black \u00b7 Stone \u00b7 Burgundy","mode":"dark","bg":"#121112","surface":"#252324","raised":"#373437","ink":"#f2eee8","muted":"#d1cac4","accent":"#dfbc91","line":"#5f5855","deep":"#171316","mid":"#650a12","gold":"#e8d1ad","cta":"#F4E6D1","ctaInk":"#26151c"}};
+const root=document.documentElement;
+const KEY='wongdhen-v21-theme';
+const grid=document.querySelector('#v21ThemeGrid'),dock=document.querySelector('.v21-dock'),panel=document.querySelector('#v21ThemePanel');
+const launcher=document.querySelector('#v21ThemeToggle'),close=document.querySelector('#v21ThemeClose');
+const names=Object.keys(THEMES);
+let config={default_theme:root.dataset.siteTheme||'burgundy',allow_visitor_switch:true};
+const saved=()=>{try{return localStorage.getItem(KEY)}catch{return null}};
+const swatch=t=>`<span class="v21-theme-swatch" aria-hidden="true"><i style="background:${t.deep}"></i><i style="background:${t.bg}"></i><i style="background:${t.accent}"></i><i style="background:${t.gold}"></i><i style="background:${t.ink}"></i></span>`;
+function setTheme(name,{persist=false}={}){
+  const theme=THEMES[name];if(!theme)return;
+  root.dataset.siteTheme=name;root.dataset.siteMode=theme.mode;
+  document.querySelector('meta[name="theme-color"]')?.setAttribute('content',theme.deep);
+  document.querySelectorAll('[data-v21-theme]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.v21Theme===name)));
+  const status=document.querySelector('#v21ThemeStatus');if(status)status.textContent=theme.name+' · '+theme.mood;
+  if(persist&&config.allow_visitor_switch){try{localStorage.setItem(KEY,name)}catch(e){}document.dispatchEvent(new CustomEvent('wongdhen:v21-theme-chosen',{detail:{theme:name}}))}
+}
+const option=(t)=>`<button type="button" class="v21-theme-option" data-v21-theme="${t.id}" aria-label="Apply ${t.name} ${t.mode} theme" aria-pressed="false">${swatch(t)}<span class="v21-option-name">${t.name}</span><span class="v21-option-mood">${t.mood}</span><span class="v21-option-mode">${t.mode.toUpperCase()}</span></button>`;
+if(grid)grid.innerHTML=Object.values(THEMES).map(option).join('');
+function openPanel(open){if(!panel||!launcher)return;panel.hidden=!open;launcher.setAttribute('aria-expanded',String(open));if(open)panel.querySelector('.v21-theme-option[aria-pressed="true"]')?.focus();}
+launcher?.addEventListener('click',()=>openPanel(panel?.hidden));
+close?.addEventListener('click',()=>{openPanel(false);launcher?.focus()});
+dock?.addEventListener('click',e=>{const button=e.target.closest('[data-v21-theme]');if(button&&config.allow_visitor_switch){setTheme(button.dataset.v21Theme,{persist:true});openPanel(false);launcher?.focus()}});
+document.addEventListener('pointerdown',e=>{if(dock&&!dock.contains(e.target))openPanel(false)});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!panel?.hidden){openPanel(false);launcher?.focus()}});
+window.addEventListener('storage',e=>{if(e.key===KEY&&config.allow_visitor_switch&&THEMES[e.newValue])setTheme(e.newValue)});
+function configure(value){
+  if(!value||!THEMES[value.default_theme])return;
+  config={default_theme:value.default_theme,allow_visitor_switch:!!value.allow_visitor_switch};
+  if(dock)dock.hidden=!config.allow_visitor_switch;
+  const preferred=config.allow_visitor_switch?saved():null;
+  setTheme(preferred&&THEMES[preferred]?preferred:config.default_theme);
+}
+async function load(){try{const response=await fetch('/api/v21/appearance',{cache:'no-store'});if(response.ok){configure(await response.json());window.WongdhenV24?.restoreTheme()}else setTheme(root.dataset.siteTheme)}catch{setTheme(root.dataset.siteTheme)}}
+function adminPanel(adminFetch){
+ const host=document.querySelector('#adminTab');if(!host)return;
+ const current=config.default_theme;
+ const options=Object.values(THEMES).map(t=>`<label class="v21-admin-card"><input type="radio" name="default_theme" value="${t.id}" ${current===t.id?'checked':''} />${swatch(t)}<span><strong>${t.name}</strong><small>${t.mood} · ${t.mode.toUpperCase()}</small></span></label>`).join('');
+ host.innerHTML=`<section class="v21-admin"><p class="v13-small-label">OWNER / LUXURY THEME STUDIO</p><h2>Art-direct your café.</h2><p>Choose the default appearance new visitors see. All fourteen presets are available throughout the real website. Visitors can retain personal preferences only when switching is enabled.</p><form id="v21AdminForm"><fieldset><legend>LIVE WEBSITE DEFAULT</legend><div class="v21-admin-grid">${options}</div></fieldset><label class="v21-admin-allow"><input type="checkbox" name="allow_visitor_switch" ${config.allow_visitor_switch?'checked':''}/> Allow customers to switch their own website theme</label><button type="submit" class="v21-save submit-button">PUBLISH WEBSITE APPEARANCE →</button><p class="v21-admin-status" id="v21AdminStatus" role="status" aria-live="polite"></p></form></section>`;
+ const form=host.querySelector('#v21AdminForm');
+ form?.addEventListener('submit',async e=>{e.preventDefault();const status=host.querySelector('#v21AdminStatus');status.textContent='Saving…';
+  const chosen=form.elements.default_theme.value;const allow=form.elements.allow_visitor_switch.checked;
+  try{const response=await adminFetch('/api/admin/v21/appearance',{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({default_theme:chosen,allow_visitor_switch:allow})});configure(response);status.textContent='Saved. Your live default is '+THEMES[chosen].name+'.';}catch(err){status.textContent='Save failed: '+err.message}
+ });
+}
+window.WongdhenV21={setTheme,adminPanel,themeCount:names.length,loadAppearance:load,get visitorSwitchAllowed(){return config.allow_visitor_switch}};
+setTheme(root.dataset.siteTheme in THEMES?root.dataset.siteTheme:'burgundy');load();
+})();
