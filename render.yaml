@@ -2,7 +2,7 @@ services:
   - type: web
     name: wongdhen-cafe
     runtime: docker
-    plan: starter
+    plan: free
     healthCheckPath: /api/v40/local-status
     envVars:
       - key: ENVIRONMENT
@@ -22,4 +22,4 @@ services:
 
 databases:
   - name: wongdhen-cafe-db
-    plan: starter
+    plan: free
